@@ -1,0 +1,43 @@
+---
+title: "About Me"
+image: images/me.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: images/me.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/apujary 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ananya-pujary/
+---
+
+## Education/Work Background
+
+I'm currently a graduate student at UMass Amherst's Data Analytics and Computational Social Science program. I received a Bachelor of Arts degree in Psychology with a minor in Literary and Cultural Studies, and a Post-Graduate Diploma in Interdisciplinary Studies and Research from FLAME University, India. I learnt Python in some courses I'd taken, and have some experience with SQL and Java NetBeans from high school too.  
+
+## R experience
+
+I've taken the Coursera courses 'The Data Scientist's Toolbox' and 'R Programming' before joining DACSS.
+
+## Research interests
+
+Public Opinion Dynamics, Behavioral Data, Networks, Community Psychology
+
+## Hometown
+
+Mangalore, India
+
+## Hobbies
+
+-   Piano
+-   Reading
+-   Cycling
+-   Art
+
+## Fun fact
+
+I've lived in the Middle East my whole life.

@@ -2,24 +2,23 @@ project:
   type: website
 
 website:
-  title: ""
-  site-url: https://dacss.github.io/DACSS_601_August2022_v2
+  title: "Ananya Pujary"
+  site-url: https://github.com/apujary
   twitter-card:
-    creator: "@UMassDACSS"
-    site: "@UMassDACSS"
+    creator: ""
+    site: ""
   favicon: images/DACSS_Round_Network.png
   navbar:
     background: "#881c1c"
     logo: images/UMass White Wordmark Horiz.png
     right:
-      - text: "August 2022 Posts"
-        href: https://dacss.github.io/DACSS_601_August2022_v2
-      - text: "Contributors"
-        file: about.qmd
-      - href: https://umass.edu/sbs/dacss
-        text: "DACSS"
+      - text: "Resume"
+        file: AnanyaPujary_Resume copy.pdf
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ananya-pujary/
+        aria-label: LinkedIn
       - icon: github
-        href: https://github.com/DACSS/DACSS_601_August2022_v2
+        href: https://github.com/apujary
         aria-label: GitHub
 
 execution:
