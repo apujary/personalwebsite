@@ -44,16 +44,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DACSS 601 August 2022",
+    "title": "Ananya’s Blog",
     "section": "",
     "text": "No matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Contributors",
+    "title": "About Me",
     "section": "",
-    "text": "About Me\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I’m currently a graduate student at UMass Amherst’s Data Analytics and Computational Social Science program. I received a Bachelor of Arts degree in Psychology with a minor in Literary and Cultural Studies, and a Post-Graduate Diploma in Interdisciplinary Studies and Research from FLAME University, India. I learnt Python in some courses I’d taken, and have some experience with SQL and Java NetBeans from high school too."
+  },
+  {
+    "objectID": "about.html#r-experience",
+    "href": "about.html#r-experience",
+    "title": "About Me",
+    "section": "R experience",
+    "text": "R experience\nI’ve taken the Coursera courses ‘The Data Scientist’s Toolbox’ and ‘R Programming’ before joining DACSS."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research interests",
+    "text": "Research interests\nPublic Opinion Dynamics, Behavioral Data, Networks, Community Psychology"
+  },
+  {
+    "objectID": "about.html#hometown",
+    "href": "about.html#hometown",
+    "title": "About Me",
+    "section": "Hometown",
+    "text": "Hometown\nMangalore, India"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nPiano\nReading\nCycling\nArt"
+  },
+  {
+    "objectID": "about.html#fun-fact",
+    "href": "about.html#fun-fact",
+    "title": "About Me",
+    "section": "Fun fact",
+    "text": "Fun fact\nI’ve lived in the Middle East my whole life."
   },
   {
     "objectID": "templates/AboutTemplate.html",

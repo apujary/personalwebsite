@@ -1,1 +1,1 @@
-Sitemap: https://github.com/apujary/sitemap.xml
+Sitemap: https://apujary.github.io/personalwebsite/sitemap.xml
