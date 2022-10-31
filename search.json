@@ -4,14 +4,14 @@
     "href": "about/AboutMe.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m currently a graduate student at UMass Amherst’s Data Analytics and Computational Social Science program. I received a Bachelor of Arts degree in Psychology with a minor in Literary and Cultural Studies, and a Post-Graduate Diploma in Interdisciplinary Studies and Research from FLAME University, India. I learnt Python in some courses I’d taken, and have some experience with SQL and Java NetBeans from high school too."
+    "text": "Hi there, I’m Ananya. I’m passionate about analyzing data for social good and making knowledge from research more accessible. I’ve always enjoyed stories from a young age and I believe that data can tell really meaningful ones. I recently got my Bachelor’s in Psychology, and I decided to switch fields a bit because I wanted to understand the research process better and learn more about big data analysis. In past internships, I’ve collected and analyzed survey data related to the psychosocial impact of COVID-19 and how a social media app can improve relationship quality. I was involved in a lot of teamwork since big surveys are a team effort and I’ve also interacted with several people while administering the surveys. Through these experiences, I realized that research needs to be inclusive and representative - and that’s what I want to work towards. Along the way I’ve also learnt programming languages like R, Python, Java, and SQL. I’m currently a graduate student at the Data Analytics and Computational Social Science program at UMass Amherst - where I’m able to combine all of my interests."
   },
   {
-    "objectID": "about/AboutMe.html#r-experience",
-    "href": "about/AboutMe.html#r-experience",
+    "objectID": "about/AboutMe.html#educationwork-background",
+    "href": "about/AboutMe.html#educationwork-background",
     "title": "About Me",
-    "section": "R experience",
-    "text": "R experience\nI’ve taken the Coursera courses ‘The Data Scientist’s Toolbox’ and ‘R Programming’ before joining DACSS."
+    "section": "Education/Work Background",
+    "text": "Education/Work Background\nI’m currently a graduate student at the Data Analytics and Computational Social Science program at the University of Massachusetts Amherst. Before this, I earned my Bachelor of Arts degree in Psychology with a minor in Literary and Cultural Studies, and a Post-Graduate Diploma in Interdisciplinary Studies and Research from FLAME University, India."
   },
   {
     "objectID": "about/AboutMe.html#research-interests",
@@ -39,7 +39,7 @@
     "href": "about/AboutMe.html#fun-fact",
     "title": "About Me",
     "section": "Fun fact",
-    "text": "Fun fact\nI’ve lived in the Middle East my whole life."
+    "text": "Fun fact\nI’ve lived in the Middle East my whole life!"
   },
   {
     "objectID": "index.html",
@@ -53,14 +53,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m currently a graduate student at UMass Amherst’s Data Analytics and Computational Social Science program. I received a Bachelor of Arts degree in Psychology with a minor in Literary and Cultural Studies, and a Post-Graduate Diploma in Interdisciplinary Studies and Research from FLAME University, India. I learnt Python in some courses I’d taken, and have some experience with SQL and Java NetBeans from high school too."
+    "text": "Hi there, I’m Ananya. I’m passionate about analyzing data for social good and making knowledge from research more accessible. I’ve always enjoyed stories from a young age and I believe that data can tell really meaningful ones. I recently got my Bachelor’s in Psychology, and I decided to switch fields a bit because I wanted to understand the research process better and learn more about big data analysis. In past internships, I’ve collected and analyzed survey data related to the psychosocial impact of COVID-19 and how a social media app can improve relationship quality. I was involved in a lot of teamwork since big surveys are a team effort and I’ve also interacted with several people while administering the surveys. Through these experiences, I realized that research needs to be inclusive and representative - and that’s what I want to work towards. Along the way I’ve also learnt programming languages like R, Python, Java, and SQL. I’m currently a graduate student at the Data Analytics and Computational Social Science program at UMass Amherst - where I’m able to combine all of my interests."
   },
   {
-    "objectID": "about.html#r-experience",
-    "href": "about.html#r-experience",
+    "objectID": "about.html#educationwork-background",
+    "href": "about.html#educationwork-background",
     "title": "About Me",
-    "section": "R experience",
-    "text": "R experience\nI’ve taken the Coursera courses ‘The Data Scientist’s Toolbox’ and ‘R Programming’ before joining DACSS."
+    "section": "Education/Work Background",
+    "text": "Education/Work Background\nI’m currently a graduate student at the Data Analytics and Computational Social Science program at the University of Massachusetts Amherst. Before this, I earned my Bachelor of Arts degree in Psychology with a minor in Literary and Cultural Studies, and a Post-Graduate Diploma in Interdisciplinary Studies and Research from FLAME University, India."
   },
   {
     "objectID": "about.html#research-interests",
@@ -88,7 +88,7 @@
     "href": "about.html#fun-fact",
     "title": "About Me",
     "section": "Fun fact",
-    "text": "Fun fact\nI’ve lived in the Middle East my whole life."
+    "text": "Fun fact\nI’ve lived in the Middle East my whole life!"
   },
   {
     "objectID": "templates/AboutTemplate.html",
